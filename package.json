@@ -23,7 +23,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "yarn build"
   },
   "eslintConfig": {
     "extends": [
